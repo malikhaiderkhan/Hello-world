@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <h3><b>Microverse Hello-World</b></h3>
+  <h1><b>Microverse Hello-World</b></h1>
 
 </div>
 
