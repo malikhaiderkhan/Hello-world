@@ -17,6 +17,8 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ ](#-faq-)
+- [📝 License ](#-license-)
 
 # 📖 [Hello-world!] <a name="about-project"></a>
 
@@ -85,5 +87,27 @@ If you like this project you can follow my work through my social networks
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse, my Learning partner and Standup Team for supporting me.
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+- **How you clone the repo?**
+
+  - git clone **\<repo name\>**
+
+- **How you install node?**
+
+  - https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
