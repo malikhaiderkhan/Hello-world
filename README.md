@@ -9,16 +9,21 @@
 
 - [📖 About the Project](#about-the-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Author](#author)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ ](#-faq-)
-- [📝 License ](#-license-)
+- [❓ FAQ ](#faq)
+- [📝 License ](#license)
 
 # 📖 [Hello-world!] <a name="about-project"></a>
 
@@ -31,14 +36,17 @@
 + CSS
 + Git
 
-> Used HTML and CSS to work on this project and add Linters configuration provided by Microverse. 
+<!-- Features -->
 
-<details>
-  <summary>HTML and CSS Linters</summary>
-  <ul>
-    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters Config</a></li>
-  </ul>
-</details>
+### Key Features <a name="key-features"></a>
+
+- **[HTML]**
+- **[CSS]**
+- **[Linters]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻Getting Started <a name="getting-started"></a>
 To go through this project, follow these steps.
@@ -48,21 +56,45 @@ In order to run this project you need:
 + A web browser
 
 ### Setup
-Clone this repository to your computer
+Clone this repository to your desired folder:
+
+```sh
+cd Hello-world
+git clone git@github.com:malikhaiderkhan/Hello-world.git
+```
+
+### Install
+Install this project with:
+
+```sh
+npm init -y
+npm install --save-dev hint@7.x
+```
+
+### Run tests
+To track linter errors locally follow these steps:
+
+Download all the dependencies run:
+```sh
+npm install --save-dev hint@7.x
+```
+
+Track HTML linter errors run:
+```sh
+npx hint .
+```
+
+Track CSS linter errors run:
+```sh
+npx stylelint "**/*.{css,scss}"
+```
 
 ### Usage
 To run the project, execute the "index.html" file in your browser
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Key Features <a name="key-features"></a>
-
-> An exercise to test linters!
-
-- **[HTML and CSS Linters]**
-- **[Hello World in HTML]**
-- **[Style in CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
 
@@ -71,6 +103,14 @@ To run the project, execute the "index.html" file in your browser
 - GitHub: [@malikhaiderkhan](https://github.com/malikhaiderkhan)
 - Twitter: [@malikhaiderkha](https://twitter.com/malikhaiderkha)
 - LinkedIn: [@malikhaiderkhan](https://www.linkedin.com/in/malik-haider-khan-b53188140)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Header]**
+- **[Footer]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,11 +128,13 @@ If you like this project you can follow my work through my social networks
 
 I would like to thank Microverse, my Learning partner and Standup Team for supporting me.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ❓ FAQ <a name="faq"></a>
 
 - **How you clone the repo?**
 
-  - git clone **\<repo name\>**
+  - git clone git@github.com:malikhaiderkhan/Hello-world.git
 
 - **How you install node?**
 
@@ -106,4 +148,3 @@ This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
