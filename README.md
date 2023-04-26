@@ -142,7 +142,7 @@ I would like to thank Microverse, my Learning partner and Standup Team for suppo
 
 - **How you clone the repo?**
 
-  - git clone **\<repo name\>**
+  - git clone git@github.com:malikhaiderkhan/Hello-world.git
 
 - **How you install node?**
 
@@ -156,4 +156,3 @@ This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
