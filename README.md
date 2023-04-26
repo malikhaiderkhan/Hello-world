@@ -57,6 +57,14 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+> Used HTML and CSS to work on this project and add Linters configuration provided by Microverse. 
+
+<details>
+  <summary>HTML and CSS Linters</summary>
+  <ul>
+    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters Config</a></li>
+  </ul>
+</details>
 
 ## 💻Getting Started <a name="getting-started"></a>
 To go through this project, follow these steps.
@@ -71,14 +79,26 @@ Clone this repository to your computer
 ### Install
 Install this project with:
 
-### Usage
-To run the project, execute the "index.html" file in your browser
-
 ### Run tests
 To run tests, run the following command: Open index.html with lite server in vscode.
 
 ### Deployment
 Coming Soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Usage
+To run the project, execute the "index.html" file in your browser
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="key-features"></a>
+
+> An exercise to test linters!
+
+- **[HTML and CSS Linters]**
+- **[Hello World in HTML]**
+- **[Style in CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +113,6 @@ Coming Soon
 - LinkedIn: [@malikhaiderkhan](https://www.linkedin.com/in/malik-haider-khan-b53188140)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -114,6 +133,7 @@ If you like this project you can follow my work through my social networks
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 I would like to thank Microverse, my Learning partner and Standup Team for supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,5 +153,7 @@ I would like to thank Microverse, my Learning partner and Standup Team for suppo
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
