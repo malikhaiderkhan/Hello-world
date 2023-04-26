@@ -58,26 +58,36 @@ In order to run this project you need:
 ### Setup
 Clone this repository to your desired folder:
 
+```sh
+cd Hello-world
 git clone git@github.com:malikhaiderkhan/Hello-world.git
+```
 
 ### Install
 Install this project with:
 
+```sh
 npm init -y
-
 npm install --save-dev hint@7.x
+```
 
 ### Run tests
 To track linter errors locally follow these steps:
 
 Download all the dependencies run:
+```sh
 npm install --save-dev hint@7.x
+```
 
 Track HTML linter errors run:
+```sh
 npx hint .
+```
 
 Track CSS linter errors run:
+```sh
 npx stylelint "**/*.{css,scss}"
+```
 
 ### Usage
 To run the project, execute the "index.html" file in your browser
