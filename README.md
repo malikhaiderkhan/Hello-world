@@ -38,15 +38,6 @@
 + CSS
 + Git
 
-> Used HTML and CSS to work on this project and add Linters configuration provided by Microverse. 
-
-<details>
-  <summary>HTML and CSS Linters</summary>
-  <ul>
-    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters Config</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -82,7 +73,6 @@ Install this project with:
 
 ### Usage
 To run the project, execute the "index.html" file in your browser
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 To run tests, run the following command: Open index.html with lite server in vscode.
@@ -108,8 +98,8 @@ Coming Soon
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Header]**
-- [ ] **[Footer]**
+- **[Header]**
+- **[Footer]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
