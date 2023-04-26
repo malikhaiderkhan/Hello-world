@@ -57,14 +57,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-> Used HTML and CSS to work on this project and add Linters configuration provided by Microverse. 
-
-<details>
-  <summary>HTML and CSS Linters</summary>
-  <ul>
-    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters Config</a></li>
-  </ul>
-</details>
 
 ## 💻Getting Started <a name="getting-started"></a>
 To go through this project, follow these steps.
@@ -85,12 +77,8 @@ To run tests, run the following command: Open index.html with lite server in vsc
 ### Deployment
 Coming Soon
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Usage
 To run the project, execute the "index.html" file in your browser
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features <a name="key-features"></a>
 
