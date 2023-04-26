@@ -24,8 +24,8 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ ](#-faq-)
-- [📝 License ](#-license-)
+- [❓ FAQ ](#faq)
+- [📝 License ](#license)
 
 # 📖 [Hello-world!] <a name="about-project"></a>
 
