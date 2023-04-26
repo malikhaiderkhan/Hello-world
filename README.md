@@ -11,14 +11,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)  
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -48,14 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming Soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻Getting Started <a name="getting-started"></a>
@@ -66,16 +56,28 @@ In order to run this project you need:
 + A web browser
 
 ### Setup
-Clone this repository to your computer
+Clone this repository to your desired folder:
+
+git clone git@github.com:malikhaiderkhan/Hello-world.git
 
 ### Install
 Install this project with:
 
-### Run tests
-To run tests, run the following command: Open index.html with lite server in vscode.
+npm init -y
 
-### Deployment
-Coming Soon
+npm install --save-dev hint@7.x
+
+### Run tests
+To track linter errors locally follow these steps:
+
+Download all the dependencies run:
+npm install --save-dev hint@7.x
+
+Track HTML linter errors run:
+npx hint .
+
+Track CSS linter errors run:
+npx stylelint "**/*.{css,scss}"
 
 ### Usage
 To run the project, execute the "index.html" file in your browser
