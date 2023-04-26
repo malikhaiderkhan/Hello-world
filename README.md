@@ -80,14 +80,6 @@ Coming Soon
 ### Usage
 To run the project, execute the "index.html" file in your browser
 
-### Key Features <a name="key-features"></a>
-
-> An exercise to test linters!
-
-- **[HTML and CSS Linters]**
-- **[Hello World in HTML]**
-- **[Style in CSS]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
